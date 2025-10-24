@@ -1,0 +1,13 @@
+# Ignorar dependencias
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar compilaciones
+dist/
+build/
