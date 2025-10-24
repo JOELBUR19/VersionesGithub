@@ -1,13 +1,15 @@
-# Ignorar dependencias
-node_modules/
-
-# Ignorar archivos de entorno
+# Variables de entorno
 .env
+.env.local
 
-# Ignorar archivos temporales
-*.log
-*.tmp
+# Dependencias
+node_modules/
+vendor/
 
-# Ignorar compilaciones
+# Archivos de construcción
 dist/
 build/
+
+# Logs
+*.log
+npm-debug.log*
