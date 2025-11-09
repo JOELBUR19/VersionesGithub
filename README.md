@@ -1,10 +1,4 @@
-# 🚀 Cómo ejecutar este proyecto en Node.js
-
-Este repositorio contiene varios ejercicios y ejemplos en JavaScript que se ejecutan desde la consola utilizando Node.js.
-
----
-
-## 📦 Requisitos
+## Requisitos
 
 Antes de comenzar, asegúrate de tener instalado:
 
@@ -47,7 +41,6 @@ npm install
 ```
 
 Esto generará la carpeta `node_modules/`.
-
 
 ---
 
